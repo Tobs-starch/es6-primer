@@ -1,0 +1,20 @@
+{
+  "name": "es6-primer",
+  "version": "0.0.2",
+  "description": "my class es6 demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobs-starch/es6-primer.git"
+  },
+  "author": "Tobi Vincent",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Tobs-starch/es6-primer/issues"
+  },
+  "homepage": "https://github.com/Tobs-starch/es6-primer#readme"
+}
